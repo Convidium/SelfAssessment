@@ -1,12 +1,12 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
+  - Data types e
+  - Performance tuning k
+  - Migrations h
   - Schema versioning
-  - Backup and recovery
-  - Database scalability
+  - Backup and recovery k
+  - Database scalability k
   - Relational databases
   - Key-value store
   - Tuple store
@@ -72,12 +72,12 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL u
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB u
   - Memcached
   - Riak
   - DB2

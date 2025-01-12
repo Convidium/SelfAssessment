@@ -1,11 +1,11 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Modularity u
+  - Components u
+  - Directories u
+  - GRASP k
+  - SOLID k
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability u
+  - Quality u
+  - Availability u
+  - Flexibility u
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -30,10 +30,10 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming h
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture
+  - Clean architecture h
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -45,13 +45,13 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML h
   - Work breakdown structure
-  - Budget estimation
+  - Budget estimation h
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways
+  - Gateways h
   - On-premises
   - IaaS
   - PaaS
@@ -72,7 +72,7 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
+  - Low-code h
   - No-code
   - Metric
   - Metric abuse
@@ -80,15 +80,15 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs h
+  - Enterprise strategy h
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope h
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices h
   - Process choreography
   - Service orchestration
   - Data warehouse

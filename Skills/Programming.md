@@ -4,63 +4,63 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
+  - Algorithm k
+  - Syntax k
+  - Semantics k
+  - Abstraction k
+  - Paradigm k
+  - Programm k
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Module k
+  - Library u
+  - Package u
+  - Component u
+  - Framework u
   - Platform
-  - Source code
+  - Source code k
   - Object code
-  - Machine code
+  - Machine code h
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
-  - Control flow
-  - Data flow
+  - Control flow h
+  - Data flow h
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value u
   - Identifier
-  - Variable
-  - Constant
+  - Variable u
+  - Constant u
   - Scalar
   - Literal
-  - Expression
+  - Expression u
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
+  - Function u
+  - Procedure k
+  - Method u
+  - Class h
+  - Prototype h
+  - Event u
   - Type
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Code block k
+  - Conditions u
+  - Loops u
+  - Assignment u
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
+  - Camel case u
+  - Snake case h
   - Kebab case
   - Trailing commas
   - Return early
@@ -82,19 +82,19 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
+  - Argument u
+  - Parameter u
+  - Pure function h
+  - Lambda expression k
+  - Side effects k
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion u
   - Tail call optimisation
-  - Callback
-  - Listener
+  - Callback u
+  - Listener u
   - Composition
   - Pipe
   - Memoize
@@ -105,44 +105,44 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
+  - Object u
+  - Collection u
   - Set
   - Hash table
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue h
+  - Stack h
   - Deque
   - Tree
   - Graph
   - Iterator
   - Mutable state
   - Immutable state
-  - Serialization
+  - Serialization h
   - String parsing
-  - JSON
+  - JSON u
   - JSON5
   - YAML
 - Networking
   - DNS
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 h
+  - IPv6 h
   - NAT
   - URL
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler h
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
+  - Garbage collection h
+  - Refactoring h
+  - Code review h
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case u
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -209,27 +209,27 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers k
   - Kernel
   - Ring
-  - Virtual memory
+  - Virtual memory k
   - File system
-  - Linux
+  - Linux u
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64 h
+  - ECMA h
   - ICANN
   - ISO
   - MIME

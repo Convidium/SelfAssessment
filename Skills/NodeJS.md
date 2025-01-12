@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js h
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -13,12 +13,12 @@
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  - Module `node:module`
+  - Module `node:module` k
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` k
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -57,7 +57,7 @@
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Blob, File, Buffer, module `node:buffer` h
   - Module `node:zlib`
 - Network
   - Endpoint throttling
@@ -67,8 +67,8 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) h
+  - TCP/SSL h
   - UDP
   - TLS
   - Websocket
@@ -79,7 +79,7 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS h
   - XSS
   - Path traversal
   - CSRF
@@ -99,29 +99,29 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console
-  - Inspector
+  - Console u
+  - Inspector h
 - Data access
   - Data access layer
   - Repository
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD h
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` k
   - `error.cause`
   - `error.code`
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions
+  - Uncaught exceptions k
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
+  - Memory leaks h
   - Resource leaks
   - Data race
 - Integrations and bindings
