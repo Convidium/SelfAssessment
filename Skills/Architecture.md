@@ -1,39 +1,39 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components u
-  - Directories u
-  - GRASP k
-  - SOLID k
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code k
+  - Multiparadigm code: 🎓 known
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
-  - Cohesion k
+  - Cohesion: 🎓 known
   - Coupling
   - Cyclomatic complexity
-  - Reliability u
-  - Quality u
-  - Availability u
-  - Flexibility u
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
-  - System vs applied code h
-  - Multilayer approach h
+  - System vs applied code: 👂 heard
+  - Multilayer approach: 👂 heard
   - Hexagonal architecture
-  - Separation of concerns (SoC) k
-  - Metaprogramming k
+  - Separation of concerns (SoC): 🎓 known
+  - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
-  - Dependency injection (DI) h
-  - Clean architecture h
+  - Dependency injection (DI): 👂 heard
+  - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -45,13 +45,13 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML h
+  - UML: 👂 heard
   - Work breakdown structure
-  - Budget estimation h
+  - Budget estimation: 👂 heard
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways h
+  - Gateways: 👂 heard
   - On-premises
   - IaaS
   - PaaS
@@ -64,31 +64,31 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design k
-  - Process modelling k
-  - Data modelling h
+  - System design: 🎓 known
+  - Process modelling: 🎓 known
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds k
+  - Clouds: 🎓 known
   - BPMN
-  - Low-code k
-  - No-code k
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs k
-  - Enterprise strategy k
+  - Understanding business needs: 🎓 known
+  - Enterprise strategy: 🎓 known
   - Integration with subsystems
-  - Enterprise vision k
-  - Enterprise capabilities h
-  - Project scope h
+  - Enterprise vision: 🎓 known
+  - Enterprise capabilities: 👂 heard
+  - Project scope: 👂 heard
   - Enterprise service bus
-  - Service-oriented architecture h
-  - Microservices k
+  - Service-oriented architecture: 👂 heard
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse

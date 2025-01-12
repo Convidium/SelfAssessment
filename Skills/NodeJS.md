@@ -1,33 +1,33 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js k
+  - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection k
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
-  - ECMAScript modules h
-  - Module `node:module` k
+  - ECMAScript modules: 👂 heard
+  - Module `node:module`: 🎓 known
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` u
-  - Files `package.json`, `package-lock.json` u
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection k
+  - Dependency injection: 🎓 known
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI h
+  - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -57,18 +57,18 @@
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer` u
+  - Blob, File, Buffer, module `node:buffer`: 🖐️ used
   - Module `node:zlib`
 - Network
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates u
+  - SSL certificates: 🖐️ used
   - Protocol agnostic approach
-  - Fetch API u
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S) k
-  - TCP/SSL h
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 👂 heard
   - UDP
   - TLS
   - Websocket
@@ -79,12 +79,12 @@
   - RPC
   - Routing
   - DoS
-  - DDoS h
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection h
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -92,36 +92,36 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing u
+  - Testing: 🖐️ used
   - CI/CD
-  - Readable k
-  - Writable k
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Back pressure
   - Buffer
-  - Console u
-  - Inspector k
+  - Console: 🖐️ used
+  - Inspector: 🎓 known
 - Data access
   - Data access layer
-  - Repository u
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD h
+  - CRUD: 👂 heard
   - DTO
 - Error handling and debugging
-  - `Error` k
+  - `Error`: 🎓 known
   - `error.cause`
   - `error.code`
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions k
+  - Uncaught exceptions: 🎓 known
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks h
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings

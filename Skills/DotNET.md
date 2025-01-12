@@ -1,12 +1,12 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET k
+  - Strengths and weaknesses of .NET: 🎓 known
   - Stateful and stateless services
-  - Asynchronous and synchronous programming k
+  - Asynchronous and synchronous programming: 🎓 known
   - Task-based asynchronous pattern
-  - Garbage collection in .NET h
-  - .NET runtime versions and support k
+  - Garbage collection in .NET: 👂 heard
+  - .NET runtime versions and support: 🎓 known
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
@@ -19,8 +19,8 @@
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools k
-  - .NET CLI k
+  - Command line interface (CLI) tools: 🎓 known
+  - .NET CLI: 🎓 known
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
@@ -29,7 +29,7 @@
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ u
+  - LINQ: 🖐️ used
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
@@ -50,7 +50,7 @@
   - Integration testing
   - Logging and tracing
   - Application monitoring and telemetry
-  - Debugging tools and strategies h
+  - Debugging tools and strategies: 👂 heard
   - Performance profiling and analysis
 - Data Access and ORM
   - Entity Framework Core
@@ -58,7 +58,7 @@
   - ADO.NET for database access
   - Data modeling and migration
   - Repository and Unit of Work patterns
-  - CRUD operations h
+  - CRUD operations: 👂 heard
 - Error Handling and Debugging
   - Exception handling in .NET
   - Custom error classes
@@ -72,16 +72,16 @@
   - .NET for `WebAssembly`
   - Custom middleware development
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS) h
-  - Microservices architecture h
+  - Integration with cloud platforms (Azure, AWS): 👂 heard
+  - Microservices architecture: 👂 heard
   - Containerization with Docker
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals k
-  - Advanced C# features (LINQ, async/await, delegates, events) k
+  - C# syntax and language fundamentals: 🎓 known
+  - Advanced C# features (LINQ, async/await, delegates, events): 🎓 known
   - Reflection and dynamic programming
-  - Data types and collections k
+  - Data types and collections: 🎓 known
   - Generics and extension methods
   - Attributes and annotations
   - Interoperability with other .NET languages
@@ -117,12 +117,12 @@
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
-  - .NET MAUI / Xamarin h k
+  - .NET MAUI / Xamarin h: 🎓 known
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity h
+  - Unity: 👂 heard
 - Web development
-  - ASP.NET Core k
-  - Blazor h
+  - ASP.NET Core: 🎓 known
+  - Blazor: 👂 heard
   - Razor Syntax
   - RESTful API development

@@ -1,20 +1,20 @@
 ## Databases
 
 - Theory and concepts
-  - Data types e
-  - Performance tuning k
-  - Migrations h
+  - Data types: 🙋 explained
+  - Performance tuning: 🎓 known
+  - Migrations: 👂 heard
   - Schema versioning
-  - Backup and recovery k
-  - Database scalability u
-  - Relational databases u
-  - Key-value store k
+  - Backup and recovery: 🎓 known
+  - Database scalability: 🖐️ used
+  - Relational databases: 🖐️ used
+  - Key-value store: 🎓 known
   - Tuple store
-  - Graph databases k
-  - Object databases k
-  - Column databases k
-  - Navigational databases k
-  - Hierarchical databases k
+  - Graph databases: 🎓 known
+  - Object databases: 🎓 known
+  - Column databases: 🎓 known
+  - Navigational databases: 🎓 known
+  - Hierarchical databases: 🎓 known
   - In-memory databases
   - Inverted index
   - Data control language (DCL)
@@ -31,31 +31,31 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions u
+  - SQL functions: 🖐️ used
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` u
-  - `INSERT` u
-  - `UPDATE` u
-  - `DELETE` u
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` u
-  - `GROUP BY` u
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
   - `HAVING`
-  - `EXISTS` k
-  - `JOIN` u
+  - `EXISTS`: 🎓 known
+  - `JOIN`: 🖐️ used
   - `INNER JOIN`
-  - `LEFT JOIN` h
-  - `RIGHT JOIN` h
-  - `UNION` k
+  - `LEFT JOIN`: 👂 heard
+  - `RIGHT JOIN`: 👂 heard
+  - `UNION`: 🎓 known
   - `DISTINCT`
-  - `WHERE` u
-  - `LIKE` u
-  - `IN` u
-  - `BETWEEN` k
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🎓 known
   - `CREATE TABLE`
   - `ALTER TABLE`
   - `DROP TABLE`
@@ -71,24 +71,24 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle h
-  - MySQL u
+  - Oracle: 👂 heard
+  - MySQL: 🖐️ used
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB u
+  - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
   - SQLite
   - DynamoDB
-  - Firebase k
+  - Firebase: 🎓 known
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
   - Data analysis
   - AI tools
-  - Cloud databases k
+  - Cloud databases: 🎓 known
   - Data Visualization
