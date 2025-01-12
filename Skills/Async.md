@@ -1,13 +1,13 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop u
-  - `try..catch` k
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
   - Non-blocking
-  - Async I/O u
+  - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor
-  - CAS operations
+  - CAS operations: 🖐️ used
   - epoll
   - kqueue
   - Completion ports
@@ -17,27 +17,27 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming h
+  - Parallel programming: 🎓 known
   - Actor Model
-  - Thread h
-  - Process
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks h
+  - Callbacks: 👂 heard
   - Callback-last-error-first
   - Thenable
-  - Promise u
-  - Async/await u
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event u
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
   - Stream
-  - Chain of responsibility
+  - Chain of responsibility: 🎓 known
   - Middleware
   - Locks
 - Async adapters and utils
@@ -47,8 +47,8 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter: 👂 heard
+  - Observable/Observer: 👂 heard
   - Readable
   - Writable
   - Transform
@@ -59,22 +59,22 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers u
-  - `setImmediate` h
-  - `nextTick` h
+  - Timers: 🖐️ used
+  - `setImmediate`: 👂 heard
+  - `nextTick`: 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell k
-  - Promise hell k
-  - ref() and unref() k
-  - Error handling in async code k
+  - Callback hell k: 🙋 explained
+  - Promise hell: 🎓 known
+  - ref() and unref(): 🎓 known
+  - Error handling in async code: 🖐️ used
   - Better stack traces with return await
-  - JSON streaming serialization u
-  - AsyncLocalStorage k
+  - JSON streaming serialization: 🖐️ used
+  - AsyncLocalStorage: 🎓 known
   - AsyncResource
 - Techniques
   - Async.js library
