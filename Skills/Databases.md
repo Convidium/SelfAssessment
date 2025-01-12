@@ -6,15 +6,15 @@
   - Migrations h
   - Schema versioning
   - Backup and recovery k
-  - Database scalability k
-  - Relational databases
-  - Key-value store
+  - Database scalability u
+  - Relational databases u
+  - Key-value store k
   - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
-  - Hierarchical databases
+  - Graph databases k
+  - Object databases k
+  - Column databases k
+  - Navigational databases k
+  - Hierarchical databases k
   - In-memory databases
   - Inverted index
   - Data control language (DCL)
@@ -31,31 +31,31 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions u
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` u
+  - `GROUP BY` u
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`
+  - `EXISTS` k
+  - `JOIN` u
   - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
+  - `LEFT JOIN` h
+  - `RIGHT JOIN` h
+  - `UNION` k
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
+  - `WHERE` u
+  - `LIKE` u
+  - `IN` u
+  - `BETWEEN` k
   - `CREATE TABLE`
   - `ALTER TABLE`
   - `DROP TABLE`
@@ -71,7 +71,7 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle
+  - Oracle h
   - MySQL u
   - MariaDB
   - MS SQL Server
@@ -83,12 +83,12 @@
   - DB2
   - SQLite
   - DynamoDB
-  - Firebase
+  - Firebase k
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
   - Data analysis
   - AI tools
-  - Cloud databases
+  - Cloud databases k
   - Data Visualization

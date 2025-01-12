@@ -2,12 +2,12 @@
 
 - Theory
   - Event loop u
-  - `try..catch` k
+  - `try..catch` u
   - Non-blocking
   - Async I/O u
   - Thread pool
   - Pattern Reactor
-  - CAS operations
+  - CAS operations u
   - epoll
   - kqueue
   - Completion ports
@@ -17,10 +17,10 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming h
+  - Parallel programming k
   - Actor Model
-  - Thread h
-  - Process
+  - Thread k
+  - Process k
 - Async contracts
   - Callbacks h
   - Callback-last-error-first
@@ -37,7 +37,7 @@
   - Goroutine
   - Signal
   - Stream
-  - Chain of responsibility
+  - Chain of responsibility k
   - Middleware
   - Locks
 - Async adapters and utils
@@ -47,8 +47,8 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter h
+  - Observable/Observer h
   - Readable
   - Writable
   - Transform
@@ -68,10 +68,10 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell k
+  - Callback hell k e
   - Promise hell k
   - ref() and unref() k
-  - Error handling in async code k
+  - Error handling in async code u
   - Better stack traces with return await
   - JSON streaming serialization u
   - AsyncLocalStorage k

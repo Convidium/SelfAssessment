@@ -7,7 +7,7 @@
   - `Number` u
   - `BigInt`
   - `String` u
-  - `Symbol` k
+  - `Symbol` u
   - `Infinity` u
   - `NaN` u
   - `undefined` u
@@ -35,19 +35,19 @@
   - Equality operators u
   - Logical operators u
   - Logical Assignment u
-  - Bitwise operators h
+  - Bitwise operators k
   - Ternary operator u
-  - `void` k
+  - `void` u
   - `yield`
   - `await` u
   - Template literal
   - Strict mode u
   - Hoisting
-  - `delete` k
+  - `delete` u
   - `in` u
   - `super`
   - `eval` u
-  - `static` k
+  - `static` u
   - `Number.parseInt`
   - `Number.parseFloat`
   - Property descriptors
@@ -74,8 +74,8 @@
   - `label` h
   - `try..catch` u
   - `switch` u
-  - `class` k
-  - `extends` k
+  - `class` u
+  - `extends` u
   - `with` u
   - `new` u
 - Functions
@@ -97,7 +97,7 @@
   - `WeakSet`
   - Typed arrays
   - Mixins
-  - `Object.assign` k
+  - `Object.assign` u
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`

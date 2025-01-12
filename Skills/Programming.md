@@ -13,7 +13,7 @@
   - Programming paradigm
   - Programming language
   - Contract
-  - Module k
+  - Module u
   - Library u
   - Package u
   - Component u
@@ -21,15 +21,15 @@
   - Platform
   - Source code k
   - Object code
-  - Machine code h
-  - Microcode
-  - Software engineering h
+  - Machine code k
+  - Microcode h
+  - Software engineering k
   - Decomposition
-  - Control flow h
+  - Control flow k
   - Data flow h
-  - Code reuse
+  - Code reuse u
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) u
   - KISS principle
 - Syntax and concepts
   - Value u
@@ -44,7 +44,7 @@
   - Procedure k
   - Method u
   - Class h
-  - Prototype h
+  - Prototype k
   - Event u
   - Type
   - Flag
@@ -54,14 +54,14 @@
   - Loops u
   - Assignment u
   - Regular expression
-  - Interface
-  - Namespaces
+  - Interface h
+  - Namespaces h
   - Call stack
   - Naming conventions
   - Coding conventions
   - Camel case u
-  - Snake case h
-  - Kebab case
+  - Snake case k
+  - Kebab case k
   - Trailing commas
   - Return early
   - Fail-fast
@@ -84,7 +84,7 @@
   - Signature
   - Argument u
   - Parameter u
-  - Pure function h
+  - Pure function u
   - Lambda expression k
   - Side effects k
   - Closure
@@ -106,15 +106,15 @@
   - Coroutine
 - Data structures
   - Array u
-  - Structure
+  - Structure k
   - Record
   - Enum
-  - Instance
+  - Instance h
   - Object u
   - Collection u
   - Set
-  - Hash table
-  - Linked list
+  - Hash table k
+  - Linked list k
   - Doubly list
   - Unrolled list
   - Circular list
@@ -124,45 +124,45 @@
   - Tree
   - Graph
   - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization h
+  - Mutable state k
+  - Immutable state k
+  - Serialization k
   - String parsing
   - JSON u
   - JSON5
   - YAML
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4 h
-  - IPv6 h
+  - DNS h
+  - CDN h
+  - CORS k
+  - IPv4 k
+  - IPv6 k
   - NAT
-  - URL
+  - URL u
   - URN
   - URI
 - Process and tools
   - Compiler h
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Just-in-time compilation k
+  - Ahead-of-time compilation k
   - Transpiler
   - Linter
-  - Polyfill
-  - Interpreter
+  - Polyfill h
+  - Interpreter k
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime k
+  - Virtual machine k
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger u
   - Tracing
-  - Garbage collection h
-  - Refactoring h
-  - Code review h
-  - Exception
+  - Garbage collection k
+  - Refactoring k
+  - Code review k
+  - Exception k
   - Unittesting
   - git u
   - Github u
@@ -171,30 +171,30 @@
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers h
+  - Hard code h
+  - Soft code h
   - Cryptic code
   - Improbability factor
-  - Accidental complexity
+  - Accidental complexity k
   - Action at a distance
-  - Spaghetti
+  - Spaghetti k
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code k
+  - Unreachable code k
+  - Duplicate code k
   - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Micro-optimization k
+  - Nested loops k
+  - Long method/function/procedure k
+  - Long inheritance k
+  - Large class/file k
+  - Too many parameters k
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case u
-  - Temporary field
+  - Temporary field k
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
@@ -202,10 +202,10 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode k
+  - V8 h
   - VJM
-  - CLR
+  - CLR h
   - Mono
 - Operating systems
   - Interrupts
@@ -213,7 +213,7 @@
   - Kernel
   - Ring
   - Virtual memory k
-  - File system
+  - File system k
   - Linux u
   - Unix
   - BSD
@@ -222,18 +222,18 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII h
+  - ASCII k
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64 h
-  - ECMA h
+  - Base64 u
+  - ECMA k
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 k
   - W3C
   - ODMG

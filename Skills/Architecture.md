@@ -9,13 +9,13 @@
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code k
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
-  - Cohesion
+  - Cohesion k
   - Coupling
   - Cyclomatic complexity
   - Reliability u
@@ -26,13 +26,13 @@
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
+  - System vs applied code h
+  - Multilayer approach h
   - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming h
+  - Separation of concerns (SoC) k
+  - Metaprogramming k
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) h
   - Clean architecture h
   - Domain-driven design (DDD)
   - Pub/sub
@@ -64,31 +64,31 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
+  - System design k
+  - Process modelling k
+  - Data modelling h
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds k
   - BPMN
-  - Low-code h
-  - No-code
+  - Low-code k
+  - No-code k
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs h
-  - Enterprise strategy h
+  - Understanding business needs k
+  - Enterprise strategy k
   - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
+  - Enterprise vision k
+  - Enterprise capabilities h
   - Project scope h
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices h
+  - Service-oriented architecture h
+  - Microservices k
   - Process choreography
   - Service orchestration
   - Data warehouse

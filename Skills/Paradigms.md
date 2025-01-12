@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
+  - Procedural programming h
+  - Imperative programming h
+  - Structured programming h
+  - Non-structured programming h
   - Functional programming u
-  - Prototype-based programming
-  - Object-oriented programming h
+  - Prototype-based programming h
+  - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming h
-  - Parallel programming h
+  - Asynchronous programming k
+  - Parallel programming k
   - Reactive programming h
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -27,25 +27,25 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
+  - Constructor k
+  - Operator `new` k
+  - Static method k
+  - Method k
+  - Async method k
+  - Getters, Setters k
+  - Public fields k
+  - Private fields k
+  - Field declarations k
+  - Inheritance k
+  - Parent class k
   - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Abstract class k
+  - Interface h
+  - Encapsulation k
+  - Hidden class h
   - Object form
-  - Instance
-  - Introspection
+  - Instance h
+  - Introspection h
   - Reflection
   - The diamond problem
 - GRASP
@@ -58,11 +58,11 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP) k
+  - Open–closed principle (OCP) k
+  - Liskov substitution principle (LSP) k
+  - Interface segregation principle (ISP) k
+  - Dependency inversion principle (DIP) h
 - Patterns
   - Singleton
   - Factory Method
@@ -77,7 +77,7 @@
   - Iterator
   - State
   - Bridge
-  - Builder
+  - Builder h
   - Prototype
   - Composite
   - Decorator
@@ -88,4 +88,4 @@
   - Visitor
   - Reactor
   - Active object
-  - Delegation
+  - Delegation k

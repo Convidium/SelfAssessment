@@ -1,33 +1,33 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js h
+  - Strong and weak sides of node.js k
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection k
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
-  - ECMAScript modules
+  - ECMAScript modules h
   - Module `node:module` k
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules` u
-  - Files `package.json`, `package-lock.json` k
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection k
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI h
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -57,17 +57,17 @@
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer` h
+  - Blob, File, Buffer, module `node:buffer` u
   - Module `node:zlib`
 - Network
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates u
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S) h
+  - HTTP(S) k
   - TCP/SSL h
   - UDP
   - TLS
@@ -84,7 +84,7 @@
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection
+  - SQL injection h
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -92,18 +92,18 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing u
   - CI/CD
-  - Readable
-  - Writable
+  - Readable k
+  - Writable k
   - Transform
   - Back pressure
   - Buffer
   - Console u
-  - Inspector h
+  - Inspector k
 - Data access
   - Data access layer
-  - Repository
+  - Repository u
   - Active record
   - Query builder
   - Object-Relational Mapping
